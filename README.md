@@ -1,1 +1,2 @@
-# The-Blackbox-Nature-of-AI
+# The Black Box Nature of AI, Ethical and Philosophical Implications
+The research focuses on exploring the challenges associated with the use of non-transparent AI technologies. Particular attention is given to enhancing the clarity and comprehensibility of AI models, utilizing the human-centered approach proposed by Capone and Bertolaso. The study examines the ethical and philosophical issues arising from the lack of openness and accountability in these technologies, highlighting how a philosophical perspective can contribute to improving human-AI interactions. This approach aims to foster trust and understanding while addressing the limitations of current methods that emphasize solely technical solutions and transparency.
